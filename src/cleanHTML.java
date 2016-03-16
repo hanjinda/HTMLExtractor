@@ -1,5 +1,5 @@
 //Clean The HTML Data
-// @Audhor: Jinda Han
+// @Author: Jinda Han @ 2014 Spring
 
 import java.io.*;
 
